@@ -1,8 +1,4 @@
-# 🚀 Ro-Utility Modules
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-Studio-FF0000?style=for-the-badge&logo=Roblox&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-Showcase-00BFFF?style=for-the-badge)
+# Ro-Utility Modules
 
 A collection of personal utility modules designed to enhance development in **Roblox Studio**.  
 This repository serves as both a **development toolkit** and a **portfolio** to showcase scripting and modular design.
@@ -24,8 +20,6 @@ This repository serves as both a **development toolkit** and a **portfolio** to 
 
 This repository was created to streamline my workflow in Roblox Studio by providing reusable utility modules.  
 The scripts here are designed to save time, improve code organization, and provide reference implementations for common tasks in Roblox development.
-
-It also doubles as a **portfolio** demonstrating my skills in scripting, modular architecture, and problem-solving within the Roblox environment.
 
 ---
 
@@ -84,5 +78,6 @@ This repository demonstrates:
 ## Contact
 
 For questions, collaboration inquiries, or professional references:
-Roblox Profile: [Bykhovsky](https://www.roblox.com/users/553039703/profile)
+
 Discord Username: [Bykhovsky]
+Roblox Profile: [Bykhovsky](https://www.roblox.com/users/553039703/profile)
