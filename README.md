@@ -53,7 +53,7 @@ You are **allowed to use these scripts** in your own projects under the followin
 
 1. You **must not claim authorship**.
 2. You **must give credit** if you share them publicly.
-3. You may **not redistribute** the scripts as your own work.
+3. You may **not redistribute** the modules as your own work.
 
 This repository is licensed under a Personal Use License.
 
