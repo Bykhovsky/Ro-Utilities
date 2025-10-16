@@ -79,5 +79,6 @@ This repository demonstrates:
 
 For questions, collaboration inquiries, or professional references:
 
-Discord Username: [Bykhovsky]
+Discord Username: Bykhovsky
+
 Roblox Profile: [Bykhovsky](https://www.roblox.com/users/553039703/profile)
