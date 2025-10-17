@@ -86,5 +86,5 @@ This repository demonstrates:
 ## Contact
 
 For questions, collaboration inquiries, or professional references:  
-Discord Username: [Bykhovsky](https://discordapp.com/users/878344368795295744)  
+Discord Profile: [Bykhovsky](https://discordapp.com/users/878344368795295744)  
 Roblox Profile: [Bykhovsky](https://www.roblox.com/users/553039703/profile)
