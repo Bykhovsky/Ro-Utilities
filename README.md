@@ -41,6 +41,10 @@ Simplifies UI creation, management, and further UI functionality.
 Handles server-client action tokenization in a secure manner.  
 *Example use cases:* Extra layers of security during client-server communication while simplifying the validation process of intentions.
 
+### 5. **RagdollService**
+A robust customizable ragdoll handler, perfect for enhancing realism.
+*Example use cases:* A combat game that utilizes state machines to determine player states.
+
 ---
 
 
