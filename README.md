@@ -86,5 +86,5 @@ This repository demonstrates:
 ## Contact
 
 For questions, collaboration inquiries, or professional references:  
-Discord Profile: [Bykhovsky](https://discordapp.com/users/878344368795295744)  
-Roblox Profile: [Bykhovsky](https://www.roblox.com/users/553039703/profile)
+Roblox DevForum: [Bykhovsky](https://devforum.roblox.com/u/bykhovsky/summary)
+Discord Profile: [Bykhovsky](https://discordapp.com/users/878344368795295744)
