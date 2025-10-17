@@ -26,7 +26,7 @@ The scripts here are designed to save time, improve code organization, and provi
 ## Modules
 
 ### 1. **MathService**
-A service that extends Roblox's math library with additional functionality.
+A service that extends Roblox's math library with additional functionality.  
 *Example use cases:* Numerical, Vector, Interpolation, and Probability necessities.
 
 ### 2. **StringService**
@@ -81,8 +81,6 @@ This repository demonstrates:
 
 ## Contact
 
-For questions, collaboration inquiries, or professional references:
-
-Discord Username: Bykhovsky
-
+For questions, collaboration inquiries, or professional references:  
+Discord Username: Bykhovsky  
 Roblox Profile: [Bykhovsky](https://www.roblox.com/users/553039703/profile)
