@@ -25,15 +25,19 @@ The scripts here are designed to save time, improve code organization, and provi
 
 ## Modules
 
-### 1. **StringService**
+### 1. **MathService**
+A service that extends Roblox's math library with additional functionality.
+*Example use cases:* Numerical, Vector, Interpolation, and Probability necessities.
+
+### 2. **StringService**
 A utility module for advanced string manipulation, parsing, and formatting.  
-*Example use cases:* cleaning input strings, formatting text, or parsing structured data.
+*Example use cases:* Cleaning input strings, formatting text, or parsing structured data.
 
-### 2. **UIService**
+### 3. **UIService**
 Simplifies UI creation, management, and further UI functionality.  
-*Example use cases:* dynamically generating GUI elements, managing menus, and handling UI events efficiently.
+*Example use cases:* Dynamically generating GUI elements, managing menus, and handling UI events efficiently.
 
-### 3. **TokenService**
+### 4. **TokenService**
 Handles server-client action tokenization in a secure manner.  
 *Example use cases:* Extra layers of security during client-server communication while simplifying the validation process of intentions.
 
