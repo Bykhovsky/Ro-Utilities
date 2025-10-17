@@ -50,7 +50,7 @@ function StringService:FormatNumber(num : number) : string
 end
 
 --[[
-	ParseColor(str [, asColor3]) -> (number, number, number) | Color3
+	ParseColor(str, asColor3) -> (number, number, number) | Color3
 	> Parses "r, g, b" text input into RGB components or Color3.
 	
 	Examples:
@@ -173,12 +173,12 @@ end
 ]]--
 function StringService:Slugify(str: string): string
 	local slug = string.lower(str)
-	
+
 	slug = slug:gsub("[^A-Za-z0-9 %-]", "")
 	slug = slug:gsub("%s+", "-")
 	slug = slug:gsub("%-+", "-")
 	slug = slug:gsub("^%-+", ""):gsub("%-+$", "")
-	
+
 	return slug
 end
 
