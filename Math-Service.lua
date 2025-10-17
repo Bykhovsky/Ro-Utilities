@@ -15,7 +15,6 @@ local MathService = {}
 -- // ======================================================
 
 --[[
-	@function IsClose
 	IsClose(a, b, epsilon) -> boolean
 	> Compares two numbers with a tolerance threshold.
 	
