@@ -4,8 +4,47 @@
 	
 	> [MathService extends Roblox's math library with additional numerical, vector, interpolation, and probability utilities].
 	
-		> Author: @Bykhovsky
-		> Updated: 10/16/2025
+	Methods:
+		* IsClose(a: number, b: number, epsilon: number) -> boolean
+		* Wrap(value: number, min: number, max: number) -> number
+		* LerpClamped(a: number, b: number, t: number) -> number
+		* Distance2d:(x1: number, y1: number, x2: number, y2: number) -> number
+		* Direction:(from: Vector3, to: Vector3) -> Vector3
+		* RandomUnitVector() -> Vector3
+		* RandomUnitVector2D() -> Vector2
+		* V3IsZero(v: Vector3, epsilon: number) -> boolean
+		* MidPoint(a: Vector3, b: Vector3) -> Vector3
+		* Distance3d(v1: Vector3, v2: Vector3) -> number
+		* Flatten(v: Vector3) -> Vector3
+		* AngleBetween(v1: Vector3, v2: Vector3) -> number
+		* Project(v1: Vector3, v2: Vector3) -> Vector3
+		* Reject(a: Vector3, b: Vector3) -> Vector3
+		* Reflect(direction: Vector3, normal: Vector3) -> Vector3
+		* ForwardFromYaw(yaw: number) -> Vector3
+		* YawFromDirection(dir: Vector3) -> number
+		* ClampMagnitude(v: Vector3, maxLength: number) -> Vector3
+		* V3QuadraticBezier(p0: Vector3, p1: Vector3, p2: Vector3, t: number) -> Vector3
+		* V3CubicBezier(p0: Vector3, p1: Vector3, p2: Vector3, t: number) -> Vector3
+		* V3SmoothDamp(current: Vector3, target: Vector3, velocity: Vector3, smoothTime: number, deltaTime: number) -> (Vector3, Vector3)
+		* RandomSign() -> number
+		* RandomFloat(min: number, max: number) -> number
+		* WeightedRandom(weights: { [string]: number }) -> string
+		* Chance(percent: number) -> boolean
+		* SmoothStep(t: number): number
+		* LerpAngle(a: number, b: number, t: number) -> number
+		* Remap(x: number, inMin: number, inMax: number, outMin: number, outMax: number) -> number
+		* EaseInOutQuad(t: number) -> number
+		* RoundDecimal(num: number, places: number): number
+		* Snap(num: number, increment: number) -> number
+		* Fraction(num: number) -> number
+		* AccelerateTowards(current: number, target: number, accel: number, deltaTime: number) -> number
+		* Damp(value: number, target: number, smoothing: number, deltaTime: number) -> number
+		* Overshoot(current: number, target: number, strength: number) -> number
+		* PingPong(t: number, length: number) -> number
+		* Repeat(t: number, length: number) -> number
+	
+	> Author: @Bykhovsky
+	> Updated: 10/18/2025
 ]]--
 
 local MathService = {}
